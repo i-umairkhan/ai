@@ -1,2 +1,2 @@
-# ai
-ai
+# AI
+Python AI based projects
